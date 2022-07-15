@@ -1,4 +1,7 @@
 MNIST_data/
 cifar10/
 
+custom_data/train_data/
+model/
+
 .ipynb_checkpoints/
