@@ -1,7 +1,10 @@
 MNIST_data/
 cifar10/
 
-custom_data/train_data/
-model/
+custom_data/**/*.jpeg
+model/*.pth
 
 .ipynb_checkpoints/
+
+#KEEP
+!**/.gitkeep
