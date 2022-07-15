@@ -1,2 +1,4 @@
 MNIST_data/
+cifar10/
+
 .ipynb_checkpoints/
